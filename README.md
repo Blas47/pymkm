@@ -137,7 +137,7 @@ The following columns are imported as default. This can be changed in `config.js
 - `foil`: Is the card foil? [`"foil"` = true, empty column = false]
 - `language_name`: Language long name, i.e. "English". For a list of compatible langauge names, see `idLanguage` chapter in this README.
 - `condition`: The card condition as per Cardmarket's grading (see `minCondition` chapter in this README).
-- `comments`: The comments to add to the article in your stock.
+- `condition`: The comments to add to the article in your stock.
 
 The following columns are available but not enabled by default:
 

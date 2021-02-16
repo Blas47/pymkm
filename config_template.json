@@ -1,8 +1,8 @@
 {
-  "app_token": "",
-  "app_secret": "",
-  "access_token": "",
-  "access_token_secret": "",
+  "app_token": "9kjz04keqhNgWTit",
+  "app_secret": "x2FzLRk1xs4wZrzDjRl03Cqyi9owTmPS",
+  "access_token": "9HwUh9VBsOkydSXDJCCMzVGy0uGhTwzz",
+  "access_token_secret": "Yh1e9dzG4yvlJKyg28ZjhscS6wdbxPw3",
   "price_limit_by_rarity": {
     "default": "0.25",
     "common": "0.25",
